@@ -1,0 +1,13 @@
+#Matricula e curso
+matricula = input("Digite seu numero de matricula :")
+curso = input("Digite seu curso matriculado :")
+
+print("Seu número de matricula :" + matricula)
+print("Seu curso matriculado :" + curso)
+
+#Nome, Sobrenome e idade
+ome = input("Digite seu nome: ")
+sobrenome = input("Digite seu sobrenome: ")
+idade = input("Digite sua idade: ")
+
+print(nome, sobrenome, idade)
